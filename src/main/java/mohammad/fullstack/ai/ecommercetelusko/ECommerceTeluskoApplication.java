@@ -9,5 +9,4 @@ public class ECommerceTeluskoApplication {
     public static void main(String[] args) {
         SpringApplication.run(ECommerceTeluskoApplication.class, args);
     }
-
 }
